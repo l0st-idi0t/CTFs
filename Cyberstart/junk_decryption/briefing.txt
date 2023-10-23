@@ -1,0 +1,19 @@
+Junk Decryption
+Agent, we've just received a bunch of files from one of our field agents taken from one of the senior gang members hard drives, and our team is having trouble putting it all together. Maybe you can help?
+
+Here's what we have: a decryption program which takes a string as an argument, but when we run it we just get junk back; some encrypted text, and; a weird image file of a calendar. A bizarre combination, take a look and see if you can figure it out.
+
+Tip: Run the correct string through the decryption program to get the flag.
+
+Can you put this all together?
+From: Agent J
+To: l0stidi0t
+Agent,
+
+See if you can piece all these intercepted pieces of intel together, our team is really struggling to do so. We've got a decryption program, an encrypted string, and this weird calendar image with a date circled.
+
+Anyway, here's the encrypted string: NXIS24@ul{}mzVKV
+
+See if you can figure it out.
+
+J

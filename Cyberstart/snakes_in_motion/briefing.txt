@@ -1,0 +1,19 @@
+nakes in Motion
+Agents have intercepted some vital information we'd like you to look at. We've sent you an email with some encrypted text, a dictionary file and a Python script to help you extract what we believe might be the password to a cloud storage solution the Spetzners use to store their criminal documents. One problem, unfortunately, the Python script is incomplete.
+
+Can you finish it off so that it runs each line in the dictionary against the encrypted text to decrypt it? Hurry agent, the Spetzners might know we are on to them and could transfer their documents elsewhere!
+
+Tip: Decrypt the text, that's the flag.
+
+Encrypted password
+From: Agent J
+To: l0stidi0t
+Agent,
+
+As per your briefing see below the encrypted text which we think decrypts to a password.
+
+Text: uqX82PBZ8pi1fvt4GLHYgLs50ht8OQlrR1KHL2teppQ=
+
+The other files are attached. Good luck, and hurry!
+
+J

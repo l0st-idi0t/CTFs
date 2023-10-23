@@ -1,0 +1,18 @@
+Ok, a really important task for you, recruit. We need access to the main Spetzner database! We think it's the only way to not only bring the gang down, but also gather the amount of incriminating evidence we'll need to prosecute.
+
+We have a word list and a binary. The binary has been pre-programmed with the hashed password for their database server. When provided a word list it will attempt to crack the password.
+
+Unfortunately, the word list doesn't have the password on there, we think it may be a similar word though. Another agent mentioned a program called "john" which can alter word lists to make minor changes, can you look into that and see if you can use it to establish the password?
+
+Tip: Get access to the database to get the flag!
+
+Targeting Spetzner DB
+From: Agent J
+To: l0stidi0t
+Agent,
+
+It's time to target the Spetzner's main DB, an important task so we need you firing on all cylinders.
+
+See attached the word list and binary mentioned in today's briefing. As discussed the password isn't on the word list, so make sure to check out that "John", it will definitely help.
+
+J
